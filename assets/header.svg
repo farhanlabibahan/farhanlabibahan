@@ -25,11 +25,6 @@
 
   <text x="500" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="60" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" letter-spacing="6">FARHAN LABIB</text>
 
-  <text x="500" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8b949e" text-anchor="middle" letter-spacing="2">
-    &lt;CSE @ University of Dhaka /&gt;
-    <animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/>
-  </text>
-
   <circle cx="70" cy="148" r="7" fill="#4ECDC4">
     <animate attributeName="cy" values="160;136;160" dur="2s" repeatCount="indefinite"/>
   </circle>

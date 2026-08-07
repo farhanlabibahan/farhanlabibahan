@@ -32,10 +32,7 @@
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
 | [**DU_Conquer**](https://github.com/farhanlabibahan/DU_Conquer) | CSE-1202 group project | C++ |
-| [**DU_Navigators**](https://github.com/farhanlabibahan/DU_Navigators) | Line Following Robot team | C++ |
-| [**BankingSoftware**](https://github.com/farhanlabibahan/BankingSoftware) | Banking system built from scratch | C++ |
 | [**DUREDBUS**](https://github.com/farhanlabibahan/DUREDBUS) | Bus tracking app for Dhaka University | Kotlin |
-| [**DataCOM-Transmission**](https://github.com/farhanlabibahan/DataCOM-Transmission) | Data communication transmission project | C++ |
 | [**SmartCare-32-Assembly-Assignment**](https://github.com/farhanlabibahan/SmartCare-32-Assembly-Assignment) | ARM (SmartCare-32) low-level programming | Assembly |
 
 ---
