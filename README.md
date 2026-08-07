@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## Hello, I'm **Farhan Labib Ahan**
+## Hello, I'm **Farhan Labib**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Robotics+%26+Embedded+Systems+Builder;App+Developer+%28Kotlin%29;Problem+Solver;Always+Learning+Something+New&font=Fira+Code&size=22&duration=2500&pause=800&color=F75C7E&width=600&height=50&center=true&vCenter=true)](https://git.io/typing-svg)
 
