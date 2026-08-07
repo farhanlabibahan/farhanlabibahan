@@ -23,7 +23,7 @@
     <animate attributeName="stroke-dashoffset" values="0;-88" dur="2.5s" repeatCount="indefinite"/>
   </line>
 
-  <text x="500" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="60" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" letter-spacing="6">FARHAN</text>
+  <text x="500" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="60" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" letter-spacing="6">FARHAN LABIB</text>
 
   <text x="500" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8b949e" text-anchor="middle" letter-spacing="2">
     &lt;CSE @ University of Dhaka /&gt;
