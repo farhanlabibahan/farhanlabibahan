@@ -6,7 +6,7 @@
 
 ## Hello, I'm **Farhan Labib Ahan**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CSE+Undergrad+%40+University+of+Dhaka;Robotics+%26+Embedded+Systems+Builder;App+Developer+%28Kotlin%29;Problem+Solver;Always+Learning+Something+New&font=Fira+Code&size=22&duration=2500&pause=800&color=F75C7E&width=600&height=50&center=true&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Robotics+%26+Embedded+Systems+Builder;App+Developer+%28Kotlin%29;Problem+Solver;Always+Learning+Something+New&font=Fira+Code&size=22&duration=2500&pause=800&color=F75C7E&width=600&height=50&center=true&vCenter=true)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=farhanlabibahan&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/farhanlabibahan?style=for-the-badge&logo=github&color=A55EEA" alt="GitHub followers" />
@@ -18,7 +18,6 @@
 
 ## About Me
 
-- Undergraduate in **Computer Science & Engineering** at **University of Dhaka**
 - Robotics enthusiast — part of the **DU_Navigators LFR Team** (Line Following Robots)
 - Competitive programmer who loves solving hard problems
 - Building Android apps with **Kotlin**
