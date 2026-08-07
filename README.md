@@ -81,6 +81,4 @@
   <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/footer.svg" alt="footer" width="100%" />
 </p>
 
-<p align="center">
-  Made by <b>Farhan Labib Ahan</b>
-</p>
+
