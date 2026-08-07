@@ -40,28 +40,6 @@
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanlabibahan&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanlabibahan&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanlabibahan&theme=radical&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanlabibahan&theme=radical" alt="Profile Summary" width="49%" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanlabibahan&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
