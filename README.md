@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header.svg" alt="Farhan Labib Ahan banner" width="100%" />
-</p>
-
 <div align="center">
 
 ## Hello, I'm **Farhan Labib Ahan**
@@ -32,7 +28,7 @@
 | ------- | ----------- | ----- |
 | [**DU_Conquer**](https://github.com/farhanlabibahan/DU_Conquer) | CSE-1202 group project | C++ |
 | [**DUREDBUS**](https://github.com/farhanlabibahan/DUREDBUS) | Bus tracking app for Dhaka University | Kotlin |
-| [**SmartCare-32-Assembly-Assignment**](https://github.com/farhanlabibahan/SmartCare-32-Assembly-Assignment) | ARM (SmartCare-32) low-level programming | Assembly |
+| [**CLOUDCARE**](https://github.com/raihri/cloudcare) | Healthcare web app for doctors, patients & admins | Java · Spring Boot |
 
 ---
 
