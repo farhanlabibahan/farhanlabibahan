@@ -4,9 +4,9 @@
 
 <div align="center">
 
-## 👋 Assalamu Alaikum, I'm **Farhan Labib Ahan**
+## Hello, I'm **Farhan Labib Ahan**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CSE+Undergrad+%40+University+of+Dhaka;Competitive+Programmer;Robotics+%26+Embedded+Systems+Builder;App+Developer+%28Kotlin%29;Always+Learning+Something+New&font=Fira+Code&size=22&duration=2500&pause=800&color=F75C7E&width=600&height=50&center=true&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CSE+Undergrad+%40+University+of+Dhaka;Robotics+%26+Embedded+Systems+Builder;App+Developer+%28Kotlin%29;Problem+Solver;Always+Learning+Something+New&font=Fira+Code&size=22&duration=2500&pause=800&color=F75C7E&width=600&height=50&center=true&vCenter=true)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=farhanlabibahan&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/farhanlabibahan?style=for-the-badge&logo=github&color=A55EEA" alt="GitHub followers" />
@@ -16,18 +16,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Undergraduate in **Computer Science & Engineering** at **University of Dhaka**
-- 🤖 Robotics enthusiast — part of the **DU_Navigators LFR Team** (Line Following Robots)
-- 🧠 Competitive programmer who loves solving hard problems
-- 📱 Building Android apps with **Kotlin**
-- 🛠️ Tinkering with **C / C++ / Assembly / Embedded Systems**
-- ⚡ Fun fact: My code compiles on the *first try*… 1% of the time. 🗿
+- Undergraduate in **Computer Science & Engineering** at **University of Dhaka**
+- Robotics enthusiast — part of the **DU_Navigators LFR Team** (Line Following Robots)
+- Competitive programmer who loves solving hard problems
+- Building Android apps with **Kotlin**
+- Tinkering with **C / C++ / Assembly / Embedded Systems**
+- Fun fact: My code compiles on the *first try*… 1% of the time.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhanlabibahan&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="GitHub Stats" width="49%" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=farhanlabibahan&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
@@ -70,7 +70,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -92,7 +92,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://farhanlabibahan.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-7F52FF?style=for-the-badge&logo=globe&logoColor=white" /></a>
@@ -109,5 +109,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by <b>Farhan Labib Ahan</b>
+  Made by <b>Farhan Labib Ahan</b>
 </p>
