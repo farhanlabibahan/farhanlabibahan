@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header.svg" alt="Farhan Labib Ahan" width="100%" />
+</p>
+
 <div align="center">
 
 ## Hello, I'm **Farhan Labib Ahan**
