@@ -65,6 +65,18 @@
 
 ---
 
+## ☕ Support Me
+
+If you like what I do, you can [**buy me a coffee**](https://www.buymeacoffee.com/farhanlabibahan)! Every cup keeps the code flowing. 🚀
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/farhanlabibahan">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
 ## Let's Connect
 
 <p align="center">
