@@ -21,6 +21,7 @@ jobs:
           github_user_name: farhanlabibahan
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
