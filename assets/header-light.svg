@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f6f8fa"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="-1" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E2435B"/>
+      <stop offset="25%" stop-color="#F7A80B"/>
+      <stop offset="50%" stop-color="#0F9D58"/>
+      <stop offset="75%" stop-color="#2A6DF4"/>
+      <stop offset="100%" stop-color="#A55EEA"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-0.5 0" to="0.5 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E2435B"/>
+      <stop offset="50%" stop-color="#2A6DF4"/>
+      <stop offset="100%" stop-color="#0F9D58"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="210" rx="24" fill="url(#bg)" stroke="#d0d7de" stroke-width="2"/>
+
+  <line x1="40" y1="178" x2="960" y2="178" stroke="url(#glowGrad)" stroke-width="3" stroke-linecap="round" stroke-dasharray="30 14">
+    <animate attributeName="stroke-dashoffset" values="0;-88" dur="2.5s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="500" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" fill="#57606a" text-anchor="middle" letter-spacing="2">
+    Hello, I am
+    <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="500" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="66" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" letter-spacing="4">FARHAN LABIB AHAN</text>
+
+  <circle cx="70" cy="60" r="6" fill="#2A6DF4" opacity="0.75">
+    <animate attributeName="cy" values="72;48;72" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="930" cy="150" r="6" fill="#E2435B" opacity="0.75">
+    <animate attributeName="cy" values="138;162;138" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="40" r="4" fill="#A55EEA" opacity="0.7">
+    <animate attributeName="cx" values="80;120;80" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="920" cy="36" r="4" fill="#0F9D58" opacity="0.7">
+    <animate attributeName="cx" values="920;880;920" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="160" cy="30" r="3" fill="#F7A80B" opacity="0.7">
+    <animate attributeName="cy" values="30;52;30" dur="4.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="840" cy="180" r="3" fill="#F7A80B" opacity="0.7">
+    <animate attributeName="cy" values="180;158;180" dur="4.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

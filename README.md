@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header.svg" alt="Farhan Labib Ahan" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header-light.svg">
+    <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header-light.svg" alt="Farhan Labib Ahan" width="100%" />
+  </picture>
 </p>
 
 <div align="center">
