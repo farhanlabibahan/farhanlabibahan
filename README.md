@@ -17,17 +17,6 @@
 
 </div>
 
----
-
-## About Me
-
-- Robotics enthusiast — part of the **DU_Navigators LFR Team** (Line Following Robots)
-- Competitive programmer who loves solving hard problems
-- Building Android apps with **Kotlin**
-- Tinkering with **C / C++ / Assembly / Embedded Systems**
-- Fun fact: My code compiles on the *first try*… 1% of the time.
-
----
 
 ## Featured Projects
 
