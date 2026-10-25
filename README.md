@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header-light.svg">
-    <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header-light.svg" alt="Farhan Labib Ahan" width="100%" />
+    <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header-light.svg" alt="Farhan Labib" width="100%" />
   </picture>
 </p>
 
@@ -24,7 +24,7 @@
 | ------- | ----------- | ----- |
 | [**DU_Conquer**](https://github.com/farhanlabibahan/DU_Conquer) | CSE-1202 group project | C++ |
 | [**DUREDBUS**](https://github.com/farhanlabibahan/DUREDBUS) | Bus tracking app for Dhaka University | Kotlin |
-| [**CLOUDCARE**](https://github.com/raihri/cloudcare) | Healthcare web app for doctors, patients & admins | Java · Spring Boot |
+| [**CLOUDCARE**](https://github.com/farhanlabibahan/Cloudcare) | Healthcare web app for doctors, patients & admins | Java · Spring Boot |
 
 ---
 
