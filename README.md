@@ -75,8 +75,3 @@ If you like what I do, you can [**buy me a coffee**](https://www.buymeacoffee.co
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/footer.svg" alt="footer" width="100%" />
-</p>
-
-
