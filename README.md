@@ -1,30 +1,19 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header-light.svg">
-    <img src="https://raw.githubusercontent.com/farhanlabibahan/farhanlabibahan/main/assets/header-light.svg" alt="Farhan Labib" width="100%" />
-  </picture>
-</p>
+<h2> Hi, I'm Farhan Labib</h2>
+CSE Undergrad Student at University Of Dhaka. I build web apps, 3D/interactive things, and occasionally participate projects and hackathons and datathons.
 
-<div align="center">
+&nbsp;
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Robotics+%26+Embedded+Systems+Builder;App+Developer+%28Kotlin%29;Problem+Solver;Always+Learning+Something+New&font=Fira+Code&size=22&duration=2500&pause=800&color=F75C7E&width=600&height=50&center=true&vCenter=true)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=farhanlabibahan&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/farhanlabibahan?style=for-the-badge&logo=github&color=A55EEA" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/farhanlabibahan?style=for-the-badge&logo=github&color=00FF87" alt="GitHub stars" />
-
-</div>
 
 
-## Featured Projects
+## Selected Works
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
+| [**CLOUDCARE**](https://github.com/farhanlabibahan/Cloudcare) | Healthcare web app for doctors, patients & admins | Java · Spring Boot |
 | [**DU_Conquer**](https://github.com/farhanlabibahan/DU_Conquer) | CSE-1202 group project | C++ |
 | [**DUREDBUS**](https://github.com/farhanlabibahan/DUREDBUS) | Bus tracking app for Dhaka University | Kotlin |
-| [**CLOUDCARE**](https://github.com/farhanlabibahan/Cloudcare) | Healthcare web app for doctors, patients & admins | Java · Spring Boot |
+
 
 ---
 
