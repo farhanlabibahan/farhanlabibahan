@@ -11,7 +11,7 @@ CSE Undergrad Student at University Of Dhaka. I build web apps, 3D/interactive t
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
 | [**CLOUDCARE**](https://github.com/farhanlabibahan/Cloudcare) | Healthcare web app for doctors, patients & admins | Java · Spring Boot |
-| [**Res Judicata Digitalis**]([https://github.com/farhanlabibahan/DU_Conquer](https://github.com/farhanlabibahan/Res-Judicata-Digitalis) | Legal Tech Hackathon (Winner Project) | TypeScript |
+| [**Res Judicata Digitalis**](https://github.com/farhanlabibahan/Res-Judicata-Digitalis) | Legal Tech Hackathon (Winner Project) | TypeScript |
 | [**DU_Conquer**](https://github.com/farhanlabibahan/DU_Conquer) | CSE-1202 group project | C++ |
 | [**DUREDBUS**](https://github.com/farhanlabibahan/DUREDBUS) | Bus tracking app for Dhaka University | Kotlin |
 
